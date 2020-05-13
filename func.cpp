@@ -19,4 +19,5 @@ void function_3()
 {
 	std::cout << "Print for function 3" << std::endl;
 	std::cout << "Added new line for function_3" << std::endl;
+	//added very important fix
 }
