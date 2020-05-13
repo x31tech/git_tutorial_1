@@ -22,6 +22,7 @@ void function_3()
 void function_4()
 {
 	std::cout << "Print for function 4" << std::endl;
+	//added content
 }
 
 void function_5()
