@@ -9,6 +9,7 @@ int main(int argc, char const *argv[])
 	std::cout << "Modification on feature_1 for test" << std::endl;
 	std::cout << "Added new commit on master" << std::endl;
 	std::cout << "Added new line for git fetch test" << std::endl;
+	std::cout << "Added new line for git fetch test" << std::endl;
 
 	function_1();
 	function_2();
