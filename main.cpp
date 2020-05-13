@@ -12,8 +12,6 @@ int main(int argc, char const *argv[])
 	function_1();
 	function_2();
 	function_3();
-	
-	
 	return 0;
 }
 
