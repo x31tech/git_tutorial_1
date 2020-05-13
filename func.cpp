@@ -4,6 +4,7 @@ void function_1()
 {
 	std::cout << "Print for function 1" << std::endl;
 	std::cout << "Added new line for function_1" << std::endl;
+	//added very important fix
 }
 
 void function_2();
