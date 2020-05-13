@@ -18,3 +18,13 @@ void function_3()
 	std::cout << "Print for function 3" << std::endl;
 	std::cout << "Added new line for function_3" << std::endl;
 }
+
+void function_4()
+{
+	std::cout << "Print for function 4" << std::endl;
+}
+
+void function_5()
+{
+	std::cout << "Print for function 5" << std::endl;
+}
